@@ -1,6 +1,6 @@
 {
   "name": "vue-amazing-selector",
-  "version": "0.3.7",
+  "version": "0.3.9",
   "private": false,
   "main": "lib/selector.umd.min.js",
   "scripts": {
